@@ -96,13 +96,6 @@ The **Talend job** is configured with **three environments**:
 
 **Using these configurations, the ETL job ensures flexibility, security, and reusability across different environments.**
 
-graph TD;
-  A[Extract Data from TSV] --> B[Transform Data in Talend];
-  B --> C[Load Data into Stage Table];
-  C --> D[Verify Loaded Data using SQL Queries];
-  D --> E[Validate Row Counts and Schema];
-
-
 
 ## **SQL Script to Create Stage Table**
 ```sql
@@ -118,7 +111,7 @@ CREATE TABLE Seattle_Pet_License_Stage (
     DI_ProcessID VARCHAR(50) NOT NULL
 );
 ```
---
+---
 
 ## Data Validation & Testing
 
@@ -143,3 +136,8 @@ SELECT COLUMN_NAME, DATA_TYPE
 FROM INFORMATION_SCHEMA.COLUMNS 
 WHERE TABLE_NAME = 'Seattle_Pet_License_Stage';
 ```
+
+---
+### Authors
+**Ansh Vaghela**
+
