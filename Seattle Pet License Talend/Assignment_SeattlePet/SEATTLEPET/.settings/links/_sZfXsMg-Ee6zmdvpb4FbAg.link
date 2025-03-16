@@ -1,0 +1,180 @@
+{
+  "itemId" : "_sZfXsMg-Ee6zmdvpb4FbAg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_dHifcMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_dH0MQckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Database"
+    }, {
+      "id" : "_dH0MQskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Password"
+    }, {
+      "id" : "_dH0MQ8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Server"
+    }, {
+      "id" : "_dH0MRMkhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Schema"
+    }, {
+      "id" : "_dH0MRckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Port"
+    }, {
+      "id" : "_dH0MRskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Login"
+    }, {
+      "id" : "_dH0MR8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_886VkMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_89OepMkhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Encoding"
+    }, {
+      "id" : "_89OeockhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Header"
+    }, {
+      "id" : "_89OeoskhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_File"
+    }, {
+      "id" : "_89Oeo8khEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_FieldSeparator"
+    }, {
+      "id" : "_89OepckhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_dHifcMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_dH0MQckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Database"
+    }, {
+      "id" : "_dH0MQskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Password"
+    }, {
+      "id" : "_dH0MQ8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Server"
+    }, {
+      "id" : "_dH0MRMkhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Schema"
+    }, {
+      "id" : "_dH0MRckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Port"
+    }, {
+      "id" : "_dH0MRskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Login"
+    }, {
+      "id" : "_dH0MR8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Dev",
+    "repoId" : "_886VkMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_89OepMkhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Encoding"
+    }, {
+      "id" : "_89OeockhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Header"
+    }, {
+      "id" : "_89OeoskhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_File"
+    }, {
+      "id" : "_89Oeo8khEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_FieldSeparator"
+    }, {
+      "id" : "_89OepckhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_dHifcMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_dH0MQckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Database"
+    }, {
+      "id" : "_dH0MQskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Password"
+    }, {
+      "id" : "_dH0MQ8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Server"
+    }, {
+      "id" : "_dH0MRMkhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Schema"
+    }, {
+      "id" : "_dH0MRckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Port"
+    }, {
+      "id" : "_dH0MRskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Login"
+    }, {
+      "id" : "_dH0MR8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Prod",
+    "repoId" : "_886VkMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_89OepMkhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Encoding"
+    }, {
+      "id" : "_89OeockhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Header"
+    }, {
+      "id" : "_89OeoskhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_File"
+    }, {
+      "id" : "_89Oeo8khEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_FieldSeparator"
+    }, {
+      "id" : "_89OepckhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_RowSeparator"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_dHifcMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_dH0MQckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Database"
+    }, {
+      "id" : "_dH0MQskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Password"
+    }, {
+      "id" : "_dH0MQ8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Server"
+    }, {
+      "id" : "_dH0MRMkhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Schema"
+    }, {
+      "id" : "_dH0MRckhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Port"
+    }, {
+      "id" : "_dH0MRskhEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_Login"
+    }, {
+      "id" : "_dH0MR8khEe6XaJ3wdlaXNg",
+      "name" : "connection_mssql_AdditionalParams"
+    } ]
+  }, {
+    "contextName" : "Test",
+    "repoId" : "_886VkMkhEe6XaJ3wdlaXNg",
+    "parameterList" : [ {
+      "id" : "_89OepMkhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Encoding"
+    }, {
+      "id" : "_89OeockhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_Header"
+    }, {
+      "id" : "_89OeoskhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_File"
+    }, {
+      "id" : "_89Oeo8khEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_FieldSeparator"
+    }, {
+      "id" : "_89OepckhEe6XaJ3wdlaXNg",
+      "name" : "Assignment_SPL_ReadData_RowSeparator"
+    } ]
+  } ]
+}
