@@ -94,7 +94,14 @@ The **Talend job** is configured with **three environments**:
 
 ---
 
-**Using these configurations, the ETL job ensures flexibility, security, and reusability across different environments.** 🚀
+**Using these configurations, the ETL job ensures flexibility, security, and reusability across different environments.**
+
+graph TD;
+  A[Extract Data from TSV] --> B[Transform Data in Talend];
+  B --> C[Load Data into Stage Table];
+  C --> D[Verify Loaded Data using SQL Queries];
+  D --> E[Validate Row Counts and Schema];
+
 
 
 ## **SQL Script to Create Stage Table**
